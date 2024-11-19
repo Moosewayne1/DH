@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="conradalvinbarrettmugshot" width="75" %}
+{% include feature/image.html objectid="CDE Categories;CDE Data 2014-2024 (1);demo_005" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
