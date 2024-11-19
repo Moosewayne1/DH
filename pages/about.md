@@ -14,14 +14,8 @@ credits: true
 
 ## About the Collection
 
-This study was done to see if there is a correlation between political alignment and hate crime statistics. This collection was created to provide samples from hate crime cases over the last 10 years.
+This study was done to see if there is a correlation between political alignment and hate crime statistics. This collection was created to provide samples from hate crime cases over the last 10 years. The collection contains the following:
 
 - a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+- Images related to previous hate crime cases such as mugshots and vandalism related to hate crimes.
+ 
