@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="2016_Elections.png;2020_Elections.png;CDE_Categories.png;CDE_Data.png" width="75" caption="2016_Elections.png;A breakdown of the 2016 General Election in Texas by county" caption2="2020_Elections.png;A breakdown of the 2020 General Election in Texas by county%}
+{% include feature/image.html objectid="2016_Elections.png;2020_Elections.png;CDE_Data.png;CDE_Categories.png" width="75" caption="A breakdown of the 2016 General Election in Texas by county;A breakdown of the 2020 General Election in Texas by county;A visual representation of the amount in hate crimes in Texas from 2014 to 2024; A breakdown of the types of hate crimes in Texas from 2014 to 2024"%}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
