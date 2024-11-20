@@ -42,7 +42,9 @@ The nest step was to track voter statistics in the state of Texas for both 2016,
 {% include feature/image.html objectid="2020_Elections.png" width="75" caption="A breakdown of the 2020 General Election in Texas by county" %}
 
 
+### Analyzing Data 
 
+Based on the data I collected and comparing the political leanings of counties in Texas with data obtained from the OCR that counts the amount of hate crimes from 2014 to 2024 in Texas counties, I concluded that there is no discernable correlation between political leaning and the probability to commit a hate crime. However, I do consider this study incomplete. I say this because while the official statistics from the OCR do not have enough data to come to a decisive conclusion, there is hidden data that is more difficult to obtain. At the core of this study, I wanted to learn whether or not political alignment leads to violence based on the bias and propaganda that comes from political radicalization. However, violence comes in many forms. This study relied mostly on quantitative data and qualitative data that had been parsed through various legal channels. However, what cannot be quantified are the instances that do not get reported. This does not account for the microaggressions, intimidation and day-to-day racism that people of color, that may or may not have a voice experience on a daily basis. So while this study could not prove a correllation between political alignment and violence, I do consider this study incomplete due to a lack of the qualitative data that would add more context the quantitative data. 
 
 
  
