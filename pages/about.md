@@ -23,18 +23,18 @@ This study was done to see if there is a correlation between political alignment
 
 ### Tracking Hate Crime Statistics
 
-The first element of this project was to check CDE data to see the trends of hate crimes throughout the years. I chose Texas because as a native Texan (who grew up in Houston, one of the most diverse cities in Texas), I am naturally curious about the trends in my home state, as there are various perspectives that are represented there. 
+The first element of this project was to check CDE data to see the trends of hate crimes throughout the years. I chose Texas because as a native Texan (who grew up in Houston, one of the most diverse cities in Texas), I am naturally curious about the trends in my home state, as there are various perspectives that are represented there. The below graph represents the amount of hate crimes in the state of Texas from 2014 to 2024. Given the limitations of the visualization software, I was unable to properly represent the passage of time on this graph. However, each dot on the graph represents the reported hate crimes for that specific month and the Y-Axis represents the amount of hate crimes reported in that month. 
 
 {% include feature/image.html objectid="/objects/CDE_Data.png" width="75" caption="A visual representation of the amount in hate crimes in Texas from 2014 to 2024" %}
 
-As you can see, hate crime data has risen significantly compared to the levels reported in 2014.
+
 
 I then proceeded to categorize the different types of hate crimes committed in that timespan as well
 
 {% include feature/image.html objectid="/objects/CDE_Categories.png" width="75" caption="A breakdown of the types of hate crimes in Texas from 2014 to 2024" %}
 ### Tracking Political Leanings in Texas
 
-The nest step was to track voter statistics in the state of Texas for both 2016, the first Trump Presidency, and 2020, the Biden Presidency. I broke down the election results into the percentage of votes each candidate received in both elections. 
+The nest step was to track voter statistics in the state of Texas for both 2016, the first Trump Presidency, and 2020, the Biden Presidency. I broke down the election results into the percentage of votes each candidate received in both elections. Again given the limitations of the visualization software and the number of counties in Texas, I was unable to create an accurate representation of the information I was able to gather. However, the graph below shows the percentage of votes each candidate received in the 2016 and 2020 elections, the X-Axis representing the percentage of votes received, and the Y-Axis representing each individual county in the state of Texas. 
 {% include feature/image.html objectid="/objects/2016elections.png" width="75" caption="A visualization of the 2016 General Election, broken down by county in Texas" %}
 
 {% include feature/image.html objectid="/objects/2020elections.png" width="75" caption="A visualization of the 2020 General Election, broken down by county in Texas" %}
