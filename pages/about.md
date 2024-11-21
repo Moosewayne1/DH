@@ -35,9 +35,7 @@ I then proceeded to categorize the different types of hate crimes committed in t
 ### Tracking Political Leanings in Texas
 
 The nest step was to track voter statistics in the state of Texas for both 2016, the first Trump Presidency, and 2020, the Biden Presidency. I broke down the election results into the percentage of votes each candidate received in both elections. 
-
-
-{% include feature/image.html objectid="https://public.flourish.studio/visualisation/20007820/;https://public.flourish.studio/visualisation/20007873" caption="A breakdown of the 2016 General Election in Texas by county;A breakdown of the 2020 General Election in Texas by county" link="https://public.flourish.studio/visualisation/20007820/;https://public.flourish.studio/visualisation/20007873/" alt="A visualization of the 2016 General Election in Texas;A visualization of the 2020 General Election in Texas" %}
+{% include feature/image.html objectid="/objects/2016_Elections.png" width="75" caption="A visualization of the 2016 General Election, broken down by county in Texas" %}
 
 ### Analyzing Data 
 
