@@ -25,7 +25,7 @@ This study was done to see if there is a correlation between political alignment
 
 The first element of this project was to check CDE data to see the trends of hate crimes throughout the years. I chose Texas because as a native Texan (who grew up in Houston, one of the most diverse cities in Texas), I am naturally curious about the trends in my home state, as there are various perspectives that are represented there. 
 
-{% include feature/image.html objectid="objects/CDE_Data.png" width="75" caption="A visual representation of the amount in hate crimes in Texas from 2014 to 2024" %}
+{% include feature/image.html objectid="/objects/CDE_Data.png" width="75" caption="A visual representation of the amount in hate crimes in Texas from 2014 to 2024" %}
 
 As you can see, hate crime data has risen significantly compared to the levels reported in 2014.
 
